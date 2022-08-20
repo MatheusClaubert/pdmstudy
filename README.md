@@ -1,7 +1,7 @@
 ### Oi, sou o Matheus Claubert !
 <hr></hr>
 
-👩‍💻 Developer, com conhecimento em HTML, CSS, JavaScript, TypeScript, Express, React.js incluindo Hooks e Styled-Components, consumo de APIs Rest, Git e GitHub, SCSS, Bootstrap. Sou apaixonado por tudo relacionado a tecnologia, desenvolvimento, artes, musicas. Acredito que a cada novidade aprendida elevamos nossa alma e conhecimento e isso é admirável.
+👩‍💻 Developer, com conhecimento em HTML, CSS, JavaScript, Express, React.js, consumo de APIs Rest, Git e GitHub, SCSS, Bootstrap. Sou apaixonado por tudo relacionado a tecnologia, desenvolvimento, jogos e musicas. Tenho muita sede por aprendizado e estou diariamente me colocando em desafios para evoluir meu aprendizado
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-claubert-8613b0152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-claubert-8613b0152" height="30" width="40" /></a>
