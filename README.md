@@ -1,7 +1,7 @@
 ### Oi, sou o Matheus Claubert !
 <hr></hr>
 
-👩‍💻Software Developer,Front-end, JavaScript, Express, React.js, consumo de APIs Rest, Git e GitHub, SCSS, Tailwind CSS e Bootstrap. Sou apaixonado por tudo relacionado a tecnologia, desenvolvimento e jogos. Tenho muita sede por aprendizado e estou diariamente me colocando em desafios para evoluir meu aprendizado
+👩‍💻Software Developer, Nodejs, JavaScript, Express, React.js/Next.js, consumo de APIs Rest, Git/GitHub e Tailwind CSS. Sou apaixonado por tudo relacionado a tecnologia, desenvolvimento e jogos. Tenho muita sede por aprendizado e estou diariamente me colocando em desafios para evoluir meu aprendizado
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-claubert-8613b0152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-claubert-8613b0152" height="30" width="40" /></a>
