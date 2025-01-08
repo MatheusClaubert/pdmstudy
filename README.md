@@ -26,4 +26,4 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusclaubert&show_icons=true&locale=en&layout=compact" alt="matheusclaubert" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusclaubert&" alt="matheusclaubert" /></p>
+
